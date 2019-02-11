@@ -1,0 +1,18 @@
+{
+  "name": "ms-organisations",
+  "version": "1.0.0",
+  "description": "Exports a list of organisations that report modern slavery into a usable format for hof select elements",
+  "main": "index.js",
+  "keywords": [
+    "hof",
+    "modern-slavery",
+    "organisations"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UKHomeOffice/ms-organisations.git"
+  },
+  "homepage": "https://github.com/UKHomeOffice/ms-organisations#readme"
+}
