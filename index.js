@@ -498,7 +498,9 @@ const organisations = [
   {value:"City and County of Swansea Council",label:"City and County of Swansea Council"},
   {value:"Torfaen County Borough Council",label:"Torfaen County Borough Council"},
   {value:"Vale of Glamorgan Council",label:"Vale of Glamorgan Council"},
-  {value:"Wrexham County Borough Council",label:"Wrexham County Borough Council"}
+  {value:"Wrexham County Borough Council",label:"Wrexham County Borough Council"},
+  {value:"Belfast Harbour Police",label:"Belfast Harbour Police"},
+  {value:"Belfast International Airport Constabulary",label:"Belfast International Airport Constabulary"}
 ];
 
 module.exports = organisations;
