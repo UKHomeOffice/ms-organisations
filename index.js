@@ -4,7 +4,6 @@ const organisations = [
   {value:"Home Office - UK Border Force UKBF",label:"Home Office - UK Border Force UKBF"},
   {value:"Home Office - UK Visas and Immigration UKVI",label:"Home Office - UK Visas and Immigration UKVI"},
   {value:"Home Office - Immigration Enforcement IE",label:"Home Office - Immigration Enforcement IE"},
-  {value:"Local Authority",label:"Local Authority"},
   {value:"Health and Social Care Trusts - HSC Trusts",label:"Health and Social Care Trusts - HSC Trusts"},
   {value:"National Crime Agency NCA",label:"National Crime Agency NCA"},
   {value:"Trafficking Awareness Raising Alliance TARA",label:"Trafficking Awareness Raising Alliance TARA"},
