@@ -1,6 +1,6 @@
 {
   "name": "ms-organisations",
-  "version": "1.2.7",
+  "version": "1.3.0",
   "description": "Exports a list of organisations that report modern slavery into a usable format for hof select elements",
   "main": "index.js",
   "keywords": [
