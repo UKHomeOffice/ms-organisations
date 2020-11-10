@@ -495,7 +495,16 @@ const organisations = [
   {value:"Vale of Glamorgan Council",label:"Vale of Glamorgan Council"},
   {value:"Wrexham County Borough Council",label:"Wrexham County Borough Council"},
   {value:"Belfast Harbour Police",label:"Belfast Harbour Police"},
-  {value:"Belfast International Airport Constabulary",label:"Belfast International Airport Constabulary"}
+  {value:"Belfast International Airport Constabulary",label:"Belfast International Airport Constabulary"},
+  {value:"North East Regional Special Operations Unit",label:"North East Regional Special Operations Unit"},
+  {value:"North West Regional Organised Crime Unit",label:"North West Regional Organised Crime Unit"},
+  {value:"Yorkshire and Humber Regional Organised Crime Unit",label:"Yorkshire and Humber Regional Organised Crime Unit"},
+  {value:"East Midlands Special Operations Unit",label:"East Midlands Special Operations Unit"},
+  {value:"Eastern Region Special Operations Unit",label:"Eastern Region Special Operations Unit"},
+  {value:"West Midlands Regional Organised Crime Unit",label:"West Midlands Regional Organised Crime Unit"},
+  {value:"Tarian ROCU",label:"Tarian ROCU"},
+  {value:"South East Regional Organised Crime Unit",label:"South East Regional Organised Crime Unit"},
+  {value:"South West Regional Organised Crime Unit",label:"South West Regional Organised Crime Unit"}
 ];
 
 module.exports = organisations;
