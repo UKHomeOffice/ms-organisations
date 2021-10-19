@@ -17,7 +17,6 @@ const organisations = [
   {value:"Unseen",label:"Unseen"},
   {value:"New Pathways",label:"New Pathways"},
   {value:"BAWSO",label:"BAWSO"},
-  {value:"Refugee Council",label:"Refugee Council"},
   {value:"Avon and Somerset Constabulary",label:"Avon and Somerset Constabulary"},
   {value:"Bedfordshire Police",label:"Bedfordshire Police"},
   {value:"Cambridgeshire Constabulary",label:"Cambridgeshire Constabulary"},
