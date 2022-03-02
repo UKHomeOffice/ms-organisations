@@ -502,7 +502,8 @@ const organisations = [
   {value:"West Midlands Regional Organised Crime Unit",label:"West Midlands Regional Organised Crime Unit"},
   {value:"Tarian ROCU",label:"Tarian ROCU"},
   {value:"South East Regional Organised Crime Unit",label:"South East Regional Organised Crime Unit"},
-  {value:"South West Regional Organised Crime Unit",label:"South West Regional Organised Crime Unit"}
+  {value:"South West Regional Organised Crime Unit",label:"South West Regional Organised Crime Unit"},
+  {value:"Belfast and Lisburn Women's Aid", label:"Belfast and Lisburn Women's Aid"}
 ];
 
 module.exports = organisations;
